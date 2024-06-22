@@ -5,7 +5,7 @@
 2. 20226032 Vũ Ngọc Dũng
 3. 20226066 Lê Như Ngọc Sơn
 ### Use case diagram
-![UCD](https://imgur.com/a/swK1t1N)
+![UCD](/Vikipedia/Diagram/VirusUseCaseDiagram.png)
 ### How to install
 In order to run this program, you need some additional library, icluding Flatlaf, Vclj and its dependent library (check this website for more detail: https://capricasoftware.co.uk/projects/vlcj)
 We recommend you run program on Apache netbean 21
