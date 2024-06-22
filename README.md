@@ -5,7 +5,7 @@
 2. 20226032 Vũ Ngọc Dũng
 3. 20226066 Lê Như Ngọc Sơn
 ### Use case diagram
-!(https://www.messenger.com/58f9ffa6-7ca1-4cf6-98ec-defe99c5f325)
+!(https://drive.google.com/file/d/1OeoSeS6Dk-EnWlnXWA4rhY_VO45bSZWc/view?usp=sharing)
 ### How to install
 In order to run this program, you need some additional library, icluding Flatlaf, Vclj and its dependent library (check this website for more detail: https://capricasoftware.co.uk/projects/vlcj)
 We recommend you run program on Apache netbean 21
